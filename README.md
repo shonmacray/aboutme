@@ -1,18 +1,22 @@
-# Project Title
+# Shon Macray
 
-One Paragraph of project description goes here
+A creatlive software developer building solutions to costumer's problems
 
-## Getting Started
+## Eduction
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+(BSc) in Computer Science degree from Bugema University (2016). I mastered in-demand computing skills, solve complex problems, and innovation and creativity.
 
-### Prerequisites
+### Technical skills
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+HTML/CSS/JavaScript/TypeScript
+ReactJs
+VueJs
+React Native
+Java (Android)
+Firebase
+GraphQl
+NodeJs
+MongoDB
 
 ### Installing
 
