@@ -1,6 +1,6 @@
 # Shon Macray🌈
 
-A creatlive software developer building solutions to costumer's problems
+A creative software developer building solutions to costumer's problems
 
 ## Eduction
 
